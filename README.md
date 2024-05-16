@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, tailwind Css, TypeScript**
 
-- 👨‍💻 All of my projects are available at [1) https://roaring-queijadas-d5c867.netlify.app/ 2) https://shopping-page-one.vercel.app/ 3) https://eloquent-torte-ed8d16.netlify.app/](1) https://roaring-queijadas-d5c867.netlify.app/ 2) https://shopping-page-one.vercel.app/ 3) https://eloquent-torte-ed8d16.netlify.app/)
-
+- 👨‍💻 All of my projects are available at [1) https://roaring-queijadas-d5c867.netlify.app/ 2) https://shopping-page-one.vercel.app/ 3) https://eloquent-torte-ed8d16.netlify.app/
 - 💬 Ask me about **React.js, MUI4, javascript, HTML5, Css3**
 
 - 📫 How to reach me **poojakothawale1105@gmail.com**
