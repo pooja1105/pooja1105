@@ -12,8 +12,8 @@
 
 - 📫 How to reach me **poojakothawale1105@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tMyZ-dG3UHtz71sl9fiYfWm3MnaB5R0w/view?usp=drivesdk](https://drive.google.com/file/d/1tMyZ-dG3UHtz71sl9fiYfWm3MnaB5R0w/view?usp=drivesdk)
-
+- 📄 Know about my experiences 
+https://drive.google.com/file/d/178bFHxemVUPUVu2awSCvb6cELa9bM_pj/view?usp=drivesdk
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/pooja-kothawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pooja-kothawale" height="30" width="40" /></a>
